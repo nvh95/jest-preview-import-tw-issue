@@ -1,0 +1,7 @@
+/*
+    Tailwind code doesn't get compiled inside @import'ed files:
+*/
+@import "base.css";
+@import "components.css";
+@import "utils.css";
+
